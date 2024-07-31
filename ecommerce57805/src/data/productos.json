@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Botellas pequeñas",
+		"id": 1,
+		"category": "pequeñas",
+		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
+		"img": "https://img.mundopmmi.com/files/base/pmmi/mundo/image/2020/01/botella_cristal_100_100.5e31c8c214c05.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+	},
+    {
+		"name": "Botellas medianas",
+		"id": 2,
+		"category": "medianas",
+		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
+		"img": "https://previews.123rf.com/images/valyalkin/valyalkin1510/valyalkin151000017/47258290-5-litros-gal%C3%B3n-de-agua-potable-en-la-botella-de-pl%C3%A1stico-sobre-fondo-blanco.jpg"
+	},
+	{
+		"name": "Botellas Grandes",
+		"id": 3,
+		"category": "grandes",
+		"detail": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500",
+		"img": "https://previews.123rf.com/images/shutswis/shutswis1607/shutswis160700486/60533922-botella-de-pl%C3%A1stico-grande-para-agua-potable.jpg"
+	}
+]
