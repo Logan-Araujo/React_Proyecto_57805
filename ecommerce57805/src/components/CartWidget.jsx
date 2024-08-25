@@ -1,8 +1,15 @@
-import carrito from "../assets/cart.png";
+import { Link } from "react-router-dom";
+import { useContext } from "react";
 
-export const CartWidget = () => (
-    <>
+import carrito from "../assets/cart.png";
+import { ItemContext } from "../contexts/ItemsContext";
+
+export const CartWidget = () => {
+    const { items } = useContext(ItemContext)
+    return (
+    <Link to="/cart">
     <img src={carrito} />
-    <span>5</span>
-    </>
-);
+    <span>{items.length}</span>
+    </Link>
+)
+};
